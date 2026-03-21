@@ -1,4 +1,3 @@
-# infinite-art
+# [Infinite Kemonoyagi's Art](https://infinite-kemonoyagi.github.io/art)
 
-archive of all my arts (+ project files)
-
+Archive of all my arts, with some project files.
